@@ -1,0 +1,22 @@
+{
+  "name": "playwright-body",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paran0i4/playwright-body.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paran0i4/playwright-body/issues"
+  },
+  "homepage": "https://github.com/paran0i4/playwright-body#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.0"
+  }
+}
