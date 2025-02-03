@@ -16,6 +16,10 @@ This project uses Playwright for end-to-end testing of web applications.
     ```sh
     npm install
     ```
+3. Install the browsers playwright:
+    ```sh
+    npx playwright install    
+    ``` 
 
 ## Usage
 
